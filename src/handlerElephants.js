@@ -20,7 +20,6 @@ const computeData = (param, elephants) => {
 };
 
 const handlerElephants = (param) => {
-  console.log(param)
   if (param === undefined) {
     return undefined;
   }
