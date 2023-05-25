@@ -5,7 +5,7 @@ Esse projeto testa habilidades com ES6, Higher Order Functions e testes. <br><br
  
  <h4>Sobre o projeto:</h4>
  <p>
- a prefeitura da cidade te deu uma importante missão: organizar as informações do zoológico! elephant
+ a prefeitura da cidade te deu uma importante missão: organizar as informações do zoológico!
 
 Nesse projeto eu fui responsável por desenvolver funções que buscam informações sobre os animais do zoológico como: espécie e local de origem. Além disso, também  busquei dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. farmer
 
