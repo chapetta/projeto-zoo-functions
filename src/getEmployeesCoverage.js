@@ -42,9 +42,7 @@ function getEmployeesCoverage(object) {
     return finalObject(result);
   }
   const result = employees.find((person) => person.id === Object.entries(object)[0][1]);
-  if (Object.keys(object).includes('id')) {
-    return result === undefined ? throwingError() : finalObject(result);
-  }
+  return result === undefined ? throwingError() : finalObject(result);
 }
 
 console.log(getEmployeesCoverage({ name: 'Sharonda' }));
