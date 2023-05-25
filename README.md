@@ -1,8 +1,8 @@
 <h1> Boas-vindas ao repositório do projeto Zoo Functions! </h1>
 <h4>
-Esse projeto testa habilidades com ES6, Higher Order Functions e testes.
+Esse projeto testa habilidades com ES6, Higher Order Functions e testes. <br><br>
  
- Sobre o projeto:
+ Sobre o projeto:<br><br>
  a prefeitura da cidade te deu uma importante missão: organizar as informações do zoológico! elephant
 
 Nesse projeto eu fui responsável por desenvolver funções que buscam informações sobre os animais do zoológico como: espécie e local de origem. Além disso, também  busquei dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. farmer
