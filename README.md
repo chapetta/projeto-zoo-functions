@@ -3,7 +3,7 @@
 Esse projeto testa habilidades com ES6, Higher Order Functions e testes. <br><br>
  </h3>
  
- <h4>Sobre o projeto:</h4><br><br>
+ <h4>Sobre o projeto:</h4>
  <p>
  a prefeitura da cidade te deu uma importante missão: organizar as informações do zoológico! elephant
 
